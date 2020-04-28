@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286556333802",
+    "firebase_url": "https://yauthfirebse.firebaseio.com",
+    "project_id": "yauthfirebse",
+    "storage_bucket": "yauthfirebse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286556333802:android:50bc8857a2c6cbaa019993",
+        "android_client_info": {
+          "package_name": "com.example.yauthfirebse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286556333802-q3308fjq6iunbv3sm9ajvd30a6gqbauk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yauthfirebse",
+            "certificate_hash": "637b5d9a3d5c81621ee383ddd50fdf9d5d455beb"
+          }
+        },
+        {
+          "client_id": "286556333802-9ls6b8kacgj1evc2lppjf8ke27vvl073.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZRtzgPENiGg_XM5x3SAl6lcVwYx-B7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286556333802-9ls6b8kacgj1evc2lppjf8ke27vvl073.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
